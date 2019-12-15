@@ -236,7 +236,7 @@ body {
 }
 
 .todays-weather-forecast__degrees-circle {
-    width: 3vw;
+    width: 4vw;
     height: 3vw;
     margin: 6vw 0 0 2vw;
     border-radius: 100%;
